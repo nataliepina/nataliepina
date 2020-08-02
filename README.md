@@ -2,5 +2,5 @@
 
 - :coffee: Coffe + Coding + Creativity
 - ✨ HTML / CSS / JavaScript
-- 🌱 Current Deepfocus: React/Redux
+- 🌱 Current Focus: React/Redux
 - 📚 Currently Reading: You Don't Know JS
