@@ -1,4 +1,4 @@
-# Hi, I’m Natalie! :cherry-blossom:
+# Hi, I’m Natalie! :cherry_blossom:
 I’m a UI Engineer who is passionate about painting the web, accessiblity, and building community.
 
 :coffee:  UI Engineer - Experian Health 
