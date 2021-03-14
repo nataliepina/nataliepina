@@ -6,4 +6,5 @@ I’m a UI Engineer who is passionate about painting the web, accessiblity, and 
 - 📚  Currently Reading: You Don't Know JS
 
 ![my-octocat-1615763169690](https://user-images.githubusercontent.com/34781875/111087747-4a17f180-84f1-11eb-9fe4-067b37ed2454.png)
+<img src="https://user-images.githubusercontent.com/34781875/111087747-4a17f180-84f1-11eb-9fe4-067b37ed2454.png"  width="120" height="120">
 
