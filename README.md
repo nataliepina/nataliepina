@@ -5,4 +5,4 @@ I’m a UI Engineer who is passionate about painting the web, accessiblity, and 
 - ✨  HTML / CSS / JavaScript / TypeScript / React 
 - 📚  Currently Reading: You Don't Know JS
 
-[Octocat](https://imgur.com/rtTZKVd)
+![Octocat](https://imgur.com/rtTZKVd)
